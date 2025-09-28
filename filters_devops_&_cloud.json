@@ -1,0 +1,21 @@
+{
+  "LOCATION": "Bangalore",
+  "EXPERIENCE_LEVEL": "entry-level",
+  "JOB_TYPE": "full-time",
+  "JOB_KEYWORDS": [
+    "devops engineer",
+    "cloud engineer",
+    "site reliability engineer",
+    "aws engineer",
+    "azure engineer",
+    "kubernetes engineer",
+    "infrastructure engineer",
+    "platform engineer"
+  ],
+  "INDUSTRIES": [
+    "Technology",
+    "Cloud Services",
+    "IT Services",
+    "Fintech"
+  ]
+}
